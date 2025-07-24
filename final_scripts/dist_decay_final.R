@@ -682,7 +682,7 @@ partial_mantel <- function(x, y, z, method = "spearman", nperm = 999, alternativ
 
 # elevation distance matrix 
 # add elevation data to sites 
-sierra_elev <- read.csv('site_data.csv')
+sierra_elev <- read.csv('data/site_data.csv')
 sierra_elev$site <- trimws(sierra_elev$site, which = "right") 
 
 # inputting elevation values
