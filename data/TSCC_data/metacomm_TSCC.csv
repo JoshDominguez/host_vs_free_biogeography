@@ -1,0 +1,976 @@
+sample_id,sample_type,habitat_type,site,watershed,sex,year,run_no
+2020_MB_100,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_101,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_103,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_105,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_108,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_109,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_11,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_110,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_111,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_113,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_115,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_116,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_117,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_118,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_120,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_122,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_123,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_124,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_125,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_126,stickle_VI,stickle,mccreight,amor,f,2020,
+2020_MB_127,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_129,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_130,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_131,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_132,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_133,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_134,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_139,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_14,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_140,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_146,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_147,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_15,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_150,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_169,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_171,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_172,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_173,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_174,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_176,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_177,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_178,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_18,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_180,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_181,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_182,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_183,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_184,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_185,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_186,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_187,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_188,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_189,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_19,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_190,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_191,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_192,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_193,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_194,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_195,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_196,stickle_VI,stickle,mcnair,amor,m,2020,
+2020_MB_197,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_199,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_2,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_200,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_201,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_202,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_203,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_205,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_206,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_207,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_208,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_209,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_21,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_210,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_211,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_212,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_213,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_214,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_215,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_216,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_217,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_218,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_219,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_221,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_222,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_223,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_224,stickle_VI,stickle,mud,amor,f,2020,
+2020_MB_225,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_226,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_23,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_241,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_242,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_243,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_244,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_246,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_247,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_248,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_249,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_25,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_250,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_251,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_252,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_258,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_259,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_26,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_260,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_261,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_262,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_263,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_265,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_267,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_268,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_27,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_3,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_323,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_328,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_329,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_33,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_331,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_332,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_333,stickle_VI,stickle,merrill,campbell,m,2020,
+2020_MB_334,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_337,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_338,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_34,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_340,stickle_VI,stickle,merrill,campbell,f,2020,
+2020_MB_342,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_343,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_35,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_351,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_354,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_358,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_36,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_365,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_367,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_369,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_37,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_371,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_376,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_38,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_382,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_383,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_385,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_386,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_389,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_39,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_395,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_396,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_399,stickle_VI,stickle,lilmud,amor,m,2020,
+2020_MB_40,stickle_VI,stickle,lilmud,amor,f,2020,
+2020_MB_401,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_402,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_403,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_404,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_405,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_406,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_407,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_41,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_411,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_412,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_419,stickle_VI,stickle,mcnair,amor,f,2020,
+2020_MB_42,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_421,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_422,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_424,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_426,stickle_VI,stickle,mud,amor,m,2020,
+2020_MB_43,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_430,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_431,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_433,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_434,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_436,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_439,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_44,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_446,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_447,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_449,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_45,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_450,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_451,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_455,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_456,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_457,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_458,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_459,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_460,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_463,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_464,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_465,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_469,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_470,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_471,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_472,stickle_VI,stickle,mccreight,amor,m,2020,
+2020_MB_474,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_476,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_477,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_479,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_49,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_5,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_50,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_51,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_52,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_53,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_54,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_55,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_56,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_57,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_59,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_6,stickle_VI,stickle,lowcamp,campbell,m,2020,
+2020_MB_60,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_63,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_64,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_67,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_68,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_69,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_70,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_71,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_72,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_73,stickle_VI,stickle,brewster,campbell,m,2020,
+2020_MB_74,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_77,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_78,stickle_VI,stickle,brewster,campbell,f,2020,
+2020_MB_79,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_8,stickle_VI,stickle,lowcamp,campbell,f,2020,
+2020_MB_80,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_82,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_83,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_84,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_85,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_87,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_89,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_90,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_92,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_93,stickle_VI,stickle,boot,campbell,f,2020,
+2020_MB_94,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_95,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_96,stickle_VI,stickle,boot,campbell,m,2020,
+2020_MB_97,stickle_VI,stickle,boot,campbell,m,2020,
+2021_MB_100,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_101,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_102,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_103,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_104,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_105,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_106,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_107,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_108,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_109,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_110,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_111,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_112,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_113,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_115,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_117,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_118,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_119,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_120,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_121,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_122,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_123,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_124,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_125,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_126,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_127,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_128,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_129,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_130,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_131,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_132,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_133,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_134,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_135,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_136,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_137,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_138,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_139,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_14,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_140,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_141,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_142,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_143,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_144,stickle_VI,stickle,mohun,mohun,m,2021,
+2021_MB_145,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_148,stickle_VI,stickle,mohun,mohun,f,2021,
+2021_MB_15,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_151,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_152,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_153,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_154,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_155,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_156,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_157,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_158,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_159,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_16,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_160,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_161,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_162,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_163,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_164,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_165,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_166,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_168,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_169,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_17,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_170,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_171,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_172,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_173,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_174,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_175,stickle_VI,stickle,muchalat,gold,f,2021,
+2021_MB_176,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_18,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_181,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_182,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_183,stickle_VI,stickle,muchalat,gold,m,2021,
+2021_MB_184,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_185,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_186,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_187,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_188,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_189,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_19,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_190,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_191,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_192,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_193,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_194,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_195,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_196,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_197,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_198,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_199,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_20,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_200,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_201,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_202,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_203,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_204,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_205,stickle_VI,stickle,comox,comox,f,2021,
+2021_MB_208,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_209,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_21,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_210,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_212,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_213,stickle_VI,stickle,comox,comox,m,2021,
+2021_MB_22,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_23,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_24,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_25,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_26,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_28,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_29,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_30,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_31,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_32,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_33,stickle_VI,stickle,lowstella,pye,f?,2021,
+2021_MB_34,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_35,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_36,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_37,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_38,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_39,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_40,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_41,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_42,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_43,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_44,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_45,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_46,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_47,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_49,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_50,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_51,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_52,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_53,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_54,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_55,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_56,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_57,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_58,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_59,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_60,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_61,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_62,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_63,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_64,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_65,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_66,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_67,stickle_VI,stickle,uppcamp,campbell,f,2021,
+2021_MB_70,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_71,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_72,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_74,stickle_VI,stickle,uppcamp,campbell,m,2021,
+2021_MB_75,stickle_VI,stickle,lowstella,pye,f,2021,
+2021_MB_76,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_77,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_78,stickle_VI,stickle,lowstella,pye,m,2021,
+2021_MB_83,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_84,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_85,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_86,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_87,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_88,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_89,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_91,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_92,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_93,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_94,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_95,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_96,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_97,stickle_VI,stickle,lilgoose,mohun,f,2021,
+2021_MB_98,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2021_MB_99,stickle_VI,stickle,lilgoose,mohun,m,2021,
+2022_MB_122,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_123,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_125,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_128,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_129,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_131,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_132,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_134,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_135,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_136,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_137,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_138,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_139,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_140,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_141,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_143,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_144,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_145,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_146,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_147,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_148,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_150,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_151,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_152,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_153,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_154,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_155,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_156,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_157,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_158,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_159,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_160,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_161,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_162,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_163,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_164,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_165,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_166,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_167,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_168,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_169,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_170,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_171,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_172,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_173,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_174,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_175,stickle_VI,stickle,stella,pye,f,2022,
+2022_MB_176,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_177,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_179,stickle_VI,stickle,stella,pye,m,2022,
+2022_MB_181,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_182,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_183,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_184,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_185,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_186,stickle_VI,stickle,lawson,campbell,m,2022,
+2022_MB_188,stickle_VI,stickle,lawson,campbell,f,2022,
+2022_MB_190,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_191,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_192,stickle_VI,stickle,amor,amor,?,2022,
+2022_MB_193,stickle_VI,stickle,amor,amor,f,2022,
+2022_MB_194,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_195,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_196,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_197,stickle_VI,stickle,amor,amor,f,2022,
+2022_MB_198,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_199,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_200,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_201,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_202,stickle_VI,stickle,amor,amor,f,2022,
+2022_MB_203,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_204,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_205,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_206,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_207,stickle_VI,stickle,amor,amor,m,2022,
+2022_MB_208,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_209,stickle_VI,stickle,ormund,amor,f?,2022,
+2022_MB_210,stickle_VI,stickle,ormund,amor,f,2022,
+2022_MB_212,stickle_VI,stickle,ormund,amor,f,2022,
+2022_MB_213,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_214,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_215,stickle_VI,stickle,ormund,amor,f?,2022,
+2022_MB_216,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_217,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_218,stickle_VI,stickle,ormund,amor,f?,2022,
+2022_MB_219,stickle_VI,stickle,ormund,amor,?,2022,
+2022_MB_220,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_221,stickle_VI,stickle,ormund,amor,f?,2022,
+2022_MB_222,stickle_VI,stickle,ormund,amor,?,2022,
+2022_MB_223,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_224,stickle_VI,stickle,ormund,amor,f,2022,
+2022_MB_225,stickle_VI,stickle,ormund,amor,f,2022,
+2022_MB_226,stickle_VI,stickle,ormund,amor,f,2022,
+2022_MB_227,stickle_VI,stickle,ormund,amor,m,2022,
+2022_MB_228,stickle_VI,stickle,ormund,amor,f?,2022,
+2022_MB_229,stickle_VI,stickle,ormund,amor,?,2022,
+2022_MB_230,stickle_VI,stickle,ormund,amor,?,2022,
+2022_MB_231,stickle_VI,stickle,ormund,amor,?,2022,
+2022_MB_232,stickle_VI,stickle,ormund,amor,f,2022,
+2022_MB_233,stickle_VI,stickle,ormund,amor,m?,2022,
+2022_MB_234,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_235,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_236,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_237,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_238,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_239,stickle_VI,stickle,echo,nanaimo,m?,2022,
+2022_MB_240,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_241,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_242,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_243,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_244,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_245,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_246,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_247,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_248,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_249,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_250,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_251,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_252,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_253,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_254,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_255,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_256,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_257,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_258,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_259,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_260,stickle_VI,stickle,echo,nanaimo,f,2022,
+2022_MB_261,stickle_VI,stickle,echo,nanaimo,m,2022,
+2022_MB_262,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_263,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_264,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_265,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_266,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_267,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_268,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_269,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_270,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_271,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_272,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_273,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_274,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_275,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_276,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_277,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_278,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_279,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_280,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_281,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_282,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_283,stickle_VI,stickle,bob,pye,m,2022,
+2022_MB_284,stickle_VI,stickle,bob,pye,f,2022,
+2022_MB_285,stickle_VI,stickle,bob,pye,f,2022,
+AMOR_EDNA_1,water_VI,lake,amor,amor,NA,2022,
+AMOR_EDNA_2,water_VI,lake,amor,amor,NA,2022,
+AMOR_EDNA_3,water_VI,lake,amor,amor,NA,2022,
+AMOR_EDNA_4,water_VI,lake,amor,amor,NA,2022,
+BOB_EDNA_2,water_VI,lake,bob,pye,NA,2022,
+BOB_EDNA_3,water_VI,lake,bob,pye,NA,2022,
+BOB_EDNA_4,water_VI,lake,bob,pye,NA,2022,
+BOOT_EDNA_1,water_VI,lake,boot,campbell,NA,2020,
+BOOT_EDNA_2,water_VI,lake,boot,campbell,NA,2020,
+BOOT_EDNA_3,water_VI,lake,boot,campbell,NA,2020,
+BOOT_EDNA_4,water_VI,lake,boot,campbell,NA,2020,
+BREWSTER_EDNA_1,water_VI,lake,brewster,campbell,NA,2020,
+BREWSTER_EDNA_2,water_VI,lake,brewster,campbell,NA,2020,
+BREWSTER_EDNA_3,water_VI,lake,brewster,campbell,NA,2020,
+BREWSTER_EDNA_4,water_VI,lake,brewster,campbell,NA,2020,
+COMOX_EDNA_1,water_VI,lake,comox,comox,NA,2021,
+COMOX_EDNA_2,water_VI,lake,comox,comox,NA,2021,
+COMOX_EDNA_3,water_VI,lake,comox,comox,NA,2021,
+COMOX_EDNA_4,water_VI,lake,comox,comox,NA,2021,
+ECHO_EDNA_1,water_VI,lake,echo,nanaimo,NA,2022,
+ECHO_EDNA_2,water_VI,lake,echo,nanaimo,NA,2022,
+ECHO_EDNA_3,water_VI,lake,echo,nanaimo,NA,2022,
+ECHO_EDNA_4,water_VI,lake,echo,nanaimo,NA,2022,
+LAWSON_EDNA_1,water_VI,lake,lawson,campbell,NA,2022,
+LAWSON_EDNA_2,water_VI,lake,lawson,campbell,NA,2022,
+LAWSON_EDNA_3,water_VI,lake,lawson,campbell,NA,2022,
+LAWSON_EDNA_4,water_VI,lake,lawson,campbell,NA,2022,
+LILGOOSE_EDNA_1,water_VI,lake,lilgoose,mohun,NA,2021,
+LILGOOSE_EDNA_2,water_VI,lake,lilgoose,mohun,NA,2021,
+LILGOOSE_EDNA_3,water_VI,lake,lilgoose,mohun,NA,2021,
+LILGOOSE_EDNA_4,water_VI,lake,lilgoose,mohun,NA,2021,
+LILMUD_EDNA_1,water_VI,lake,lilmud,amor,NA,2020,
+LILMUD_EDNA_2,water_VI,lake,lilmud,amor,NA,2020,
+LILMUD_EDNA_3,water_VI,lake,lilmud,amor,NA,2020,
+LILMUD_EDNA_4,water_VI,lake,lilmud,amor,NA,2020,
+LOWCAMP_EDNA_1,water_VI,lake,lowcamp,campbell,NA,2020,
+LOWCAMP_EDNA_2,water_VI,lake,lowcamp,campbell,NA,2020,
+LOWCAMP_EDNA_3,water_VI,lake,lowcamp,campbell,NA,2020,
+LOWCAMP_EDNA_4,water_VI,lake,lowcamp,campbell,NA,2020,
+LOWSTELLA_EDNA_1,water_VI,lake,lowstella,pye,NA,2021,
+LOWSTELLA_EDNA_2,water_VI,lake,lowstella,pye,NA,2021,
+LOWSTELLA_EDNA_3,water_VI,lake,lowstella,pye,NA,2021,
+LOWSTELLA_EDNA_4,water_VI,lake,lowstella,pye,NA,2021,
+MCCREIGHT_EDNA_1,water_VI,lake,mccreight,amor,NA,2020,
+MCCREIGHT_EDNA_2,water_VI,lake,mccreight,amor,NA,2020,
+MCCREIGHT_EDNA_3,water_VI,lake,mccreight,amor,NA,2020,
+MCCREIGHT_EDNA_4,water_VI,lake,mccreight,amor,NA,2020,
+MCNAIR_EDNA_1,water_VI,lake,mcnair,amor,NA,2020,
+MCNAIR_EDNA_2,water_VI,lake,mcnair,amor,NA,2020,
+MCNAIR_EDNA_3,water_VI,lake,mcnair,amor,NA,2020,
+MCNAIR_EDNA_4,water_VI,lake,mcnair,amor,NA,2020,
+MERRILL_EDNA_1,water_VI,lake,merrill,campbell,NA,2020,
+MERRILL_EDNA_2,water_VI,lake,merrill,campbell,NA,2020,
+MERRILL_EDNA_3,water_VI,lake,merrill,campbell,NA,2020,
+MERRILL_EDNA_4,water_VI,lake,merrill,campbell,NA,2020,
+MOHUN_EDNA_1,water_VI,lake,mohun,mohun,NA,2021,
+MOHUN_EDNA_2,water_VI,lake,mohun,mohun,NA,2021,
+MOHUN_EDNA_3,water_VI,lake,mohun,mohun,NA,2021,
+MOHUN_EDNA_4,water_VI,lake,mohun,mohun,NA,2021,
+MUCHALAT_EDNA_1,water_VI,lake,muchalat,gold,NA,2021,
+MUCHALAT_EDNA_2,water_VI,lake,muchalat,gold,NA,2021,
+MUCHALAT_EDNA_3,water_VI,lake,muchalat,gold,NA,2021,
+MUCHALAT_EDNA_4,water_VI,lake,muchalat,gold,NA,2021,
+MUD_EDNA_1,water_VI,lake,mud,amor,NA,2020,
+MUD_EDNA_2,water_VI,lake,mud,amor,NA,2020,
+MUD_EDNA_3,water_VI,lake,mud,amor,NA,2020,
+MUD_EDNA_4,water_VI,lake,mud,amor,NA,2020,
+STELLA_EDNA_1,water_VI,lake,stella,pye,NA,2022,
+STELLA_EDNA_2,water_VI,lake,stella,pye,NA,2022,
+STELLA_EDNA_3,water_VI,lake,stella,pye,NA,2022,
+STELLA_EDNA_4,water_VI,lake,stella,pye,NA,2022,
+UPPCAMP_EDNA_1,water_VI,lake,uppcamp,campbell,NA,2021,
+UPPCAMP_EDNA_2,water_VI,lake,uppcamp,campbell,NA,2021,
+UPPCAMP_EDNA_3,water_VI,lake,uppcamp,campbell,NA,2021,
+UPPCAMP_EDNA_4,water_VI,lake,uppcamp,campbell,NA,2021,
+NEG_EXTR_2020_1,neg.control,ext_blank,NA,NA,NA,2020,
+NEG_EXTR_2020_2,neg.control,ext_blank,NA,NA,NA,2020,
+NEG_EXTR_2020_3,neg.control,ext_blank,NA,NA,NA,2020,
+NEG_EXTR_2020_4,neg.control,ext_blank,NA,NA,NA,2020,
+NEG_EXTR_EDNA_2020_1,neg.control,ext_blank,NA,NA,NA,2020,
+NEG_EXTR_EDNA_2020_2,neg.control,ext_blank,NA,NA,NA,2020,
+NEG_PCR_2020_1,neg.control,pcr_pos,NA,NA,NA,2020,
+NEG_PCR_2020_2,neg.control,pcr_pos,NA,NA,NA,2020,
+NEG_PCR_2020_3,neg.control,pcr_pos,NA,NA,NA,2020,
+NEG_EXTR_2021_1,neg.control,ext_blank,NA,NA,NA,2021,
+NEG_EXTR_2021_2,neg.control,ext_blank,NA,NA,NA,2021,
+NEG_EXTR_2021_3,neg.control,ext_blank,NA,NA,NA,2021,
+NEG_PCR_2021_1,neg.control,pcr_pos,NA,NA,NA,2021,
+NEG_PCR_2021_2,neg.control,pcr_pos,NA,NA,NA,2021,
+NEG_PCR_2021_3,neg.control,pcr_pos,NA,NA,NA,2021,
+NEG_EXTR_2022_3,neg.control,ext_blank,NA,NA,NA,2022,
+NEG_EXTR_2022_4,neg.control,ext_blank,NA,NA,NA,2022,
+NEG_EXTR_EDNA_2022,neg.control,ext_blank,NA,NA,NA,2022,
+NEG_PCR_2022_3,neg.control,pcr_pos,NA,NA,NA,2022,
+NEG_PCR_2022_4,neg.control,pcr_pos,NA,NA,NA,2022,
+TR_01,trout_sierra,trout,Gardisky,,,2021,1
+TR_02,trout_sierra,trout,Gardisky,,,2021,1
+TR_03,trout_sierra,trout,Gardisky,,,2021,1
+TR_05,trout_sierra,trout,Gardisky,,,2021,1
+TR_06,trout_sierra,trout,Gardisky,,,2021,1
+TR_07,trout_sierra,trout,Gardisky,,,2021,1
+TR_08,trout_sierra,trout,Gardisky,,,2021,1
+TR_09,trout_sierra,trout,Gardisky,,,2021,1
+TR_10,trout_sierra,trout,Gardisky,,,2021,1
+TR_11,trout_sierra,trout,Cascade,,,2021,1
+TR_12,trout_sierra,trout,Cascade,,,2021,1
+TR_13,trout_sierra,trout,Cascade,,,2021,1
+TR_14,trout_sierra,trout,Cascade,,,2021,1
+TR_15,trout_sierra,trout,Cascade,,,2021,1
+TR_16,trout_sierra,trout,Cascade,,,2021,1
+TR_17,trout_sierra,trout,Cascade,,,2021,1
+TR_18,trout_sierra,trout,Wasco,,,2021,1
+TR_19,trout_sierra,trout,Granite 1,,,2021,1
+TR_20,trout_sierra,trout,Granite 1,,,2021,1
+TR_21,trout_sierra,trout,Granite 1,,,2021,1
+TR_22,trout_sierra,trout,Granite 1,,,2021,1
+TR_23,trout_sierra,trout,Granite 2,,,2021,1
+TR_24,trout_sierra,trout,Granite 2,,,2021,1
+TR_25,trout_sierra,trout,Granite 2,,,2021,1
+TR_26,trout_sierra,trout,Elizabeth,,,2021,1
+TR_27,trout_sierra,trout,Elizabeth,,,2021,1
+TR_28,trout_sierra,trout,Elizabeth,,,2021,1
+TR_29,trout_sierra,trout,Elizabeth,,,2021,1
+TR_30,trout_sierra,trout,Elizabeth,,,2021,1
+TR_31,trout_sierra,trout,Blue,,,2021,1
+TR_32,trout_sierra,trout,Gaylor 2,,,2021,1
+TR_33,trout_sierra,trout,Gaylor 2,,,2021,1
+TR_34,trout_sierra,trout,Gaylor 2,,,2021,1
+TR_35,trout_sierra,trout,Gaylor 2,,,2021,1
+TR_36,trout_sierra,trout,Gaylor 2,,,2021,1
+TR_37,trout_sierra,trout,Gaylor 1,,,2021,1
+TR_38,trout_sierra,trout,Gaylor 1,,,2021,1
+TR_39,trout_sierra,trout,Gaylor 1,,,2021,1
+TR_40,trout_sierra,trout,Gaylor 1,,,2021,1
+TR_41,trout_sierra,trout,Gaylor 1,,,2021,1
+TR_42,trout_sierra,trout,May,,,2021,1
+TR_43,trout_sierra,trout,May,,,2021,1
+TR_44,trout_sierra,trout,May,,,2021,1
+TR_45,trout_sierra,trout,May,,,2021,1
+TR_46,trout_sierra,trout,May,,,2021,1
+TR_47,trout_sierra,trout,Wasco,,,2021,1
+TR_48,trout_sierra,trout,Wasco,,,2021,1
+TR_49,trout_sierra,trout,Wasco,,,2021,1
+TR_50,trout_sierra,trout,Wasco,,,2021,1
+TR_51,trout_sierra,trout,Wasco,,,2021,1
+TR_52,trout_sierra,trout,Wasco,,,2021,1
+TR_53,trout_sierra,trout,Greenstone,,,2021,1
+TR_54,trout_sierra,trout,Greenstone,,,2021,1
+TR_55,trout_sierra,trout,Greenstone,,,2021,1
+TR_56,trout_sierra,trout,Greenstone,,,2021,1
+TR_57,trout_sierra,trout,Greenstone,,,2021,1
+TR_58,trout_sierra,trout,Greenstone,,,2021,1
+TR_59,trout_sierra,trout,Greenstone,,,2021,1
+TR_60,trout_sierra,trout,Sunrise 3,,,2021,1
+TR_61,trout_sierra,trout,Sunrise 3,,,2021,1
+TR_62,trout_sierra,trout,Sunrise 3,,,2021,1
+TR_63,trout_sierra,trout,Sunrise 3,,,2021,1
+TR_64,trout_sierra,trout,Sunrise 3,,,2021,1
+TR_65,trout_sierra,trout,Sunrise 3,,,2021,1
+TR_66,trout_sierra,trout,Helen,,,2021,1
+TR_67,trout_sierra,trout,Helen,,,2021,1
+TR_68,trout_sierra,trout,Helen,,,2021,1
+TR_69,trout_sierra,trout,Helen,,,2021,1
+TR_70,trout_sierra,trout,Helen,,,2021,1
+TR_71,trout_sierra,trout,Spillway,,,2021,1
+TR_72,trout_sierra,trout,Spillway,,,2021,1
+TR_73,trout_sierra,trout,Spillway,,,2021,1
+TR_74,trout_sierra,trout,Spillway,,,2021,1
+TR_75,trout_sierra,trout,Spillway,,,2021,1
+TR_76,trout_sierra,trout,Spillway,,,2021,1
+TR_77,trout_sierra,trout,Spillway,,,2021,1
+TR_78,trout_sierra,trout,Sunrise 1,,,2021,1
+TR_80,trout_sierra,trout,Sunrise 1,,,2021,1
+TR_81,trout_sierra,trout,Sunrise 1,,,2021,1
+TR_82,trout_sierra,trout,Sunrise 1,,,2021,1
+TR_BL1,neg.control,ext_blank,,,,,1
+TR_BL2,neg.control,ext_blank,,,,,1
+TR_BL3,neg.control,ext_blank,,,,,1
+TR_BL4,neg.control,ext_blank,,,,,1
+TR_BL5,neg.control,ext_blank,,,,,1
+TR_BL6,neg.control,ext_blank,,,,,1
+TR_PCRPOS,pos.control,pcr_pos,,,,,1
+TR_PCRNEG1,neg.control,pcr_neg,,,,,1
+TR_PCRNEG2,neg.control,pcr_neg,,,,,1
+TR_01,trout_sierra,trout,Gardisky,,,2021,2
+TR_10,trout_sierra,trout,Gardisky,,,2021,2
+TR_100,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_101,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_102,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_103,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_104,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_105,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_106,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_107,trout_sierra,trout,Helen,,,2022,2
+TR_108,trout_sierra,trout,Helen,,,2022,2
+TR_109,trout_sierra,trout,Helen,,,2022,2
+TR_110,trout_sierra,trout,Helen,,,2022,2
+TR_111,trout_sierra,trout,Helen,,,2022,2
+TR_112,trout_sierra,trout,Helen,,,2022,2
+TR_113,trout_sierra,trout,Spillway,,,2022,2
+TR_114,trout_sierra,trout,Spillway,,,2022,2
+TR_115,trout_sierra,trout,Spillway,,,2022,2
+TR_116,trout_sierra,trout,Spillway,,,2022,2
+TR_117,trout_sierra,trout,Spillway,,,2022,2
+TR_118,trout_sierra,trout,Spillway,,,2022,2
+TR_119,trout_sierra,trout,Spillway,,,2022,2
+TR_120,trout_sierra,trout,Spillway,,,2022,2
+TR_121,trout_sierra,trout,Greenstone,,,2022,2
+TR_122,trout_sierra,trout,Greenstone,,,2022,2
+TR_123,trout_sierra,trout,Greenstone,,,2022,2
+TR_124,trout_sierra,trout,Greenstone,,,2022,2
+TR_125,trout_sierra,trout,Greenstone,,,2022,2
+TR_126,trout_sierra,trout,Greenstone,,,2022,2
+TR_127A,trout_sierra,trout,Greenstone,,,2022,2
+TR_127B,trout_sierra,trout,Greenstone,,,2022,2
+TR_129,trout_sierra,trout,Greenstone,,,2022,2
+TR_130,trout_sierra,trout,Greenstone,,,2022,2
+TR_131,trout_sierra,trout,Greenstone,,,2022,2
+TR_132,trout_sierra,trout,Greenstone,,,2022,2
+TR_133,trout_sierra,trout,Greenstone,,,2022,2
+TR_134,trout_sierra,trout,Granite 2,,,2022,2
+TR_135,trout_sierra,trout,Granite 2,,,2022,2
+TR_136,trout_sierra,trout,Granite 2,,,2022,2
+TR_137,trout_sierra,trout,Granite 2,,,2022,2
+TR_138,trout_sierra,trout,Granite 2,,,2022,2
+TR_139,trout_sierra,trout,Granite 2,,,2022,2
+TR_14,trout_sierra,trout,Cascade,,,2021,2
+TR_140,trout_sierra,trout,Granite 2,,,2022,2
+TR_141,trout_sierra,trout,Gardisky,,,2022,2
+TR_142,trout_sierra,trout,Gardisky,,,2022,2
+TR_143,trout_sierra,trout,Helen,,,2022,2
+TR_145,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_146,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_148,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_149,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_150,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_151,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_152,trout_sierra,trout,Sunrise 3,,,2022,2
+TR_153,trout_sierra,trout,May,,,2022,2
+TR_154,trout_sierra,trout,May,,,2022,2
+TR_155,trout_sierra,trout,Granite 1,,,2022,2
+TR_156,trout_sierra,trout,Granite 1,,,2022,2
+TR_157,trout_sierra,trout,Granite 1,,,2022,2
+TR_158,trout_sierra,trout,Granite 1,,,2022,2
+TR_159,trout_sierra,trout,Granite 1,,,2022,2
+TR_160,trout_sierra,trout,Granite 1,,,2022,2
+TR_161,trout_sierra,trout,Granite 1,,,2022,2
+TR_162,trout_sierra,trout,Granite 1,,,2022,2
+TR_163,trout_sierra,trout,Granite 1,,,2022,2
+TR_164,trout_sierra,trout,Granite 1,,,2022,2
+TR_165,trout_sierra,trout,Granite 1,,,2022,2
+TR_166,trout_sierra,trout,Gardisky,,,2022,2
+TR_167,trout_sierra,trout,Cascade,,,2022,2
+TR_168,trout_sierra,trout,Cascade,,,2022,2
+TR_169,trout_sierra,trout,Cascade,,,2022,2
+TR_170,trout_sierra,trout,Cascade,,,2022,2
+TR_171,trout_sierra,trout,Cascade,,,2022,2
+TR_172,trout_sierra,trout,Cascade,,,2022,2
+TR_173,trout_sierra,trout,Cascade,,,2022,2
+TR_174,trout_sierra,trout,Lukens,,,2022,2
+TR_175,trout_sierra,trout,Lukens,,,2022,2
+TR_176,trout_sierra,trout,Elizabeth,,,2022,2
+TR_177,trout_sierra,trout,Elizabeth,,,2022,2
+TR_178,trout_sierra,trout,Elizabeth,,,2022,2
+TR_179,trout_sierra,trout,Elizabeth,,,2022,2
+TR_180,trout_sierra,trout,Elizabeth,,,2022,2
+TR_181,trout_sierra,trout,Elizabeth,,,2022,2
+TR_182,trout_sierra,trout,Elizabeth,,,2022,2
+TR_183,trout_sierra,trout,Wasco,,,2022,2
+TR_184,trout_sierra,trout,Wasco,,,2022,2
+TR_185,trout_sierra,trout,Wasco,,,2022,2
+TR_186,trout_sierra,trout,Wasco,,,2022,2
+TR_187,trout_sierra,trout,Lukens,,,2022,2
+TR_188,trout_sierra,trout,Sunrise 1,,,2022,2
+TR_189,trout_sierra,trout,Lukens,,,2022,2
+TR_190,trout_sierra,trout,Lukens,,,2022,2
+TR_191,trout_sierra,trout,Lukens,,,2022,2
+TR_36,trout_sierra,trout,Gaylor 2,,,2021,2
+TR_41,trout_sierra,trout,Gaylor 1,,,2021,2
+TR_48,trout_sierra,trout,Wasco,,,2021,2
+TR_49,trout_sierra,trout,Wasco,,,2021,2
+TR_52,trout_sierra,trout,Wasco,,,2021,2
+TR_57,trout_sierra,trout,Greenstone,,,2021,2
+TR_61,trout_sierra,trout,Sunrise 3,,,2021,2
+TR_65,trout_sierra,trout,Sunrise 3,,,2021,2
+TR_74,trout_sierra,trout,Spillway,,,2021,2
+TR_83,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_84,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_85,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_86,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_87,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_88,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_89,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_90,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_91,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_92,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_93,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_94,trout_sierra,trout,Gaylor 2,,,2022,2
+TR_95,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_96,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_97,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_98,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_99,trout_sierra,trout,Gaylor 1,,,2022,2
+TR_BL1,neg.control,ext_blank,,,,,2
+TR_BL2,neg.control,ext_blank,,,,,2
+TR_BL3,neg.control,ext_blank,,,,,2
+TR_BL4,neg.control,ext_blank,,,,,2
+TR_BL5,neg.control,ext_blank,,,,,2
+TR_PCRNEG1,neg.control,pcr_neg,,,,,2
+TR_PCRNEG2,neg.control,pcr_neg,,,,,2
+TR_PCRNEG3,neg.control,pcr_neg,,,,,2
+TR_PCRNEG4,neg.control,pcr_neg,,,,,2
+TR_PCRPOS,pos.control,pcr_pos,,,,,2
+TR_PCRPOS2,pos.control,pcr_pos,,,,,2
+01_16S,water_sierra,lake,Gardisky,,,2021,3
+10_16S,water_sierra,lake,Greenstone,,,2017,3
+100_16S,water_sierra,lake,Gaylor 1,,,2019,3
+102_16S,water_sierra,lake,May,,,2019,3
+103_16S,water_sierra,lake,Elizabeth,,,2019,3
+105_16S,water_sierra,lake,Sunrise 3,,,2019,3
+12_16S,water_sierra,lake,Gaylor 2,,,2017,3
+14_16S,water_sierra,lake,Gaylor 2,,,2016,3
+16_16S,water_sierra,lake,Elizabeth,,,2017,3
+19_16S,water_sierra,lake,Spillway,,,2016,3
+20_16S,water_sierra,lake,Cascade,,,2016,3
+23_16S,water_sierra,lake,Sunrise 3,,,2016,3
+27_16S,water_sierra,lake,Gardisky,,,2017,3
+28_16S,water_sierra,lake,Greenstone,,,2021,3
+33_16S,water_sierra,lake,Elizabeth,,,2021,3
+34_16S,water_sierra,lake,May,,,2016,3
+35_16S,water_sierra,lake,Elizabeth,,,2016,3
+39_16S,water_sierra,lake,May,,,2017,3
+40_16S,water_sierra,lake,Sunrise 1,,,2017,3
+41_16S,water_sierra,lake,Sunrise 1,,,2016,3
+42_16S,water_sierra,lake,Granite 1,,,2021,3
+43_16S,water_sierra,lake,Gaylor 1,,,2017,3
+44_16S,water_sierra,lake,Spillway,,,2017,3
+45_16S,water_sierra,lake,Gaylor 2,,,2021,3
+46_16S,water_sierra,lake,Greenstone,,,2016,3
+57_16S,water_sierra,lake,Cascade,,,2021,3
+63_16S,water_sierra,lake,Gaylor 1,,,2021,3
+65_16S,water_sierra,lake,Gardisky,,,2016,3
+66_16S,water_sierra,lake,Sunrise 1,,,2021,3
+68_16S,water_sierra,lake,Helen,,,2017,3
+73_16S,water_sierra,lake,Sunrise 1,,,2017,3
+74_16S,water_sierra,lake,Granite 2,,,2021,3
+78_16S,water_sierra,lake,May,,,2021,3
+82_16S,water_sierra,lake,Gaylor 1,,,2016,3
+84_16S,water_sierra,lake,Gaylor 2,,,2019,3
+85_16S,water_sierra,lake,Spillway,,,2019,3
+94_16S,water_sierra,lake,Sunrise 1,,,2019,3
+95_16S,water_sierra,lake,Helen,,,2019,3
+96_16S,water_sierra,lake,Gardisky,,,2019,3
+97_16S,water_sierra,lake,Granite 1,,,2019,3
+51_16S,neg.control,ext_blank,,,,,3
+15_16S,neg.control,ext_blank,,,,,3
+76_16S,neg.control,ext_blank,,,,,3
+53_16S,pos.control,pcr_pos,,,,,3
+91_16S,pos.control,pcr_pos,,,,,3
+165_16S,pos.control,pcr_pos,,,,,3
+75_16S,neg.control,pcr_neg,,,,,3
+22_16S,neg.control,pcr_neg,,,,,3
+89_16S,neg.control,pcr_neg,,,,,3
+104_16S,neg.control,pcr_neg,,,,,3
+124_16S,neg.control,pcr_neg,,,,,3
+183_16S,neg.control,pcr_neg,,,,,3
+05_16S,water_sierra,lake,Lukens,,,2017,3
+55_16S,water_sierra,lake,Lukens,,,2016,3
+59_16S,water_sierra,lake,Lukens,,,2017,3
+93_16S,water_sierra,lake,Lukens,,,2019,3
+YoTB_587,water_sierra,lake,Gaylor 2,,,2021,4
+YoTB_589,water_sierra,lake,Sunrise 3,,,2021,4
+YoTB_590,water_sierra,lake,Sunrise 1,,,2021,4
+YoTB_594,water_sierra,lake,Granite 1,,,2021,4
+YoTB_596,water_sierra,lake,May,,,2021,4
+YoTB_597,water_sierra,lake,Greenstone,,,2021,4
+YoTB_601,water_sierra,lake,Granite 2,,,2021,4
+YoTB_602,water_sierra,lake,Helen,,,2021,4
+YoTB_603,water_sierra,lake,Wasco,,,2021,4
+YoTB_605,water_sierra,lake,Gaylor 1,,,2021,4
+YoTB_606,water_sierra,lake,Elizabeth,,,2021,4
+YoTB_609,water_sierra,lake,Cascade,,,2021,4
+YoTB_610,water_sierra,lake,Gardisky,,,2021,4
+YoTB_613,water_sierra,lake,Spillway,,,2021,4
+YoTB_623,trout_sierra,trout,Wasco,,,2022,4
+YoTB_624,trout_sierra,trout,Gaylor 2,,,2022,4
+YoTB_625,water_sierra,lake,Wasco,,,2022,4
+YoTB_626,trout_sierra,trout,Gardisky,,,2021,4
+YoTB_627,trout_sierra,trout,Wasco,,,2021,4
+YoTB_628,trout_sierra,trout,Wasco,,,2021,4
+YoTB_629,trout_sierra,trout,Gardisky,,,2021,4
+YoTB_630,trout_sierra,trout,Sunrise 3,,,2022,4
+YoTB_631,trout_sierra,trout,Helen,,,2022,4
+YoTB_632,water_sierra,lake,Gaylor 2,,,2022,4
+YoTB_634,water_sierra,lake,Cascade,,,2022,4
+YoTB_636,trout_sierra,trout,Gaylor 2,,,2021,4
+YoTB_638,water_sierra,lake,Granite 1,,,2022,4
+YoTB_639,water_sierra,lake,Granite 2,,,2022,4
+YoTB_640,water_sierra,lake,Lukens,,,2022,4
+YoTB_641,water_sierra,lake,Gaylor 1,,,2022,4
+YoTB_643,water_sierra,lake,Greenstone,,,2022,4
+YoTB_648,water_sierra,lake,Sunrise 3,,,2022,4
+YoTB_649,water_sierra,lake,Helen,,,2022,4
+YoTB_650,water_sierra,lake,Elizabeth,,,2022,4
+YoTB_652,water_sierra,lake,Spillway,,,2022,4
+YoTB_653,water_sierra,lake,Sunrise 1,,,2022,4
+YoTB_661,water_sierra,lake,May,,,2022,4
+YoTB_662,water_sierra,lake,Gardisky,,,2022,4
